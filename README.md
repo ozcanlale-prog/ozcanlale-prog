@@ -8,7 +8,8 @@
 </div>
 
 ---
-<img width="720" height="720" alt="𝕿𝖔𝖒 в TikTok" src="https://github.com/user-attachments/assets/64586f3e-aff0-4a87-938c-22fa65533f57" />
+
+<img width="736" height="977" alt="indir (27)" src="https://github.com/user-attachments/assets/f9c2173d-1c32-47de-aaa8-61c19afd090c" />
 
 
 ### About Me
