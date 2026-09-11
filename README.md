@@ -1,9 +1,8 @@
-
 # Özcan Lale | Software Engineering Student
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ozcanlale/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-black?style=flat&logo=github)](https://github.com/ozcanlale-prog)
 
 </div>
@@ -39,4 +38,3 @@ Second-year Software Engineering student at Kahramanmaraş İstiklal Üniversite
 
 
 <img width="736" height="414" alt="indir (30)" src="https://github.com/user-attachments/assets/669a1bfe-c974-4891-ac25-984609bcfa34" />
-
