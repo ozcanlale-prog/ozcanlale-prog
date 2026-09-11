@@ -7,7 +7,8 @@
 
 </div>
 
----<img width="500" height="369" alt="Reblog by @say-hello--to--the-angels · 1 image" src="https://github.com/user-attachments/assets/08bc254d-15ba-4a4a-92da-65b259fd3860" />
+---
+<img width="720" height="720" alt="𝕿𝖔𝖒 в TikTok" src="https://github.com/user-attachments/assets/64586f3e-aff0-4a87-938c-22fa65533f57" />
 
 
 ### About Me
