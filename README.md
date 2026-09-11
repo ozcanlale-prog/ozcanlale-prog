@@ -9,10 +9,6 @@
 
 ---
 
-
-<img width="640" height="640" alt="indir (29)" src="https://github.com/user-attachments/assets/f6189345-c43e-4b4b-8a1a-15a428459114" />
-
-
 ### About Me
 
 Second-year Software Engineering student at Kahramanmaraş İstiklal Üniversitesi with a strong focus on mobile architecture, artificial intelligence integrations, 3D modeling pipelines, and embedded hardware systems. Passionate about building high-performance, functional applications and bridging software engineering with visual computing.
@@ -35,3 +31,6 @@ Second-year Software Engineering student at Kahramanmaraş İstiklal Üniversite
 ### Connect With Me
 
 * Feel free to explore my repositories, check out my ongoing builds, or reach out via LinkedIn for professional collaborations.
+
+     <img width="736" height="414" alt="indir (30)" src="https://github.com/user-attachments/assets/669a1bfe-c974-4891-ac25-984609bcfa34" />
+
