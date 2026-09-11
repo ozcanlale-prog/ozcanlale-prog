@@ -10,7 +10,11 @@
 
 ---
 
-[leberch-space-440026.mp3](https://github.com/user-attachments/files/32090145/leberch-space-440026.mp3)
+<audio controls>
+  <source src="https://github.com/user-attachments/files/32090145/leberch-space-440026.mp3" type="audio/mpeg">
+  Tarayıcınız ses öğesini desteklemiyor.
+</audio>
+
 
 ### About Me
 
