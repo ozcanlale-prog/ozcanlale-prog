@@ -32,5 +32,5 @@ Second-year Software Engineering student at Kahramanmaraş İstiklal Üniversite
 
 * Feel free to explore my repositories, check out my ongoing builds, or reach out via LinkedIn for professional collaborations.
 
-     <img width="736" height="414" alt="indir (30)" src="https://github.com/user-attachments/assets/669a1bfe-c974-4891-ac25-984609bcfa34" />
+<img width="736" height="414" alt="indir (30)" src="https://github.com/user-attachments/assets/669a1bfe-c974-4891-ac25-984609bcfa34" />
 
