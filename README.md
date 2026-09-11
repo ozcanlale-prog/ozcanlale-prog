@@ -9,7 +9,8 @@
 
 ---
 
-<img width="736" height="977" alt="indir (27)" src="https://github.com/user-attachments/assets/f9c2173d-1c32-47de-aaa8-61c19afd090c" />
+
+<img width="640" height="640" alt="indir (29)" src="https://github.com/user-attachments/assets/f6189345-c43e-4b4b-8a1a-15a428459114" />
 
 
 ### About Me
