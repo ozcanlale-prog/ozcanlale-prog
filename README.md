@@ -1,16 +1,33 @@
-## Hi there 👋
+# Özcan Lale | Software Engineering Student
 
-<!--
-**ozcanlale-prog/ozcanlale-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-black?style=flat&logo=github)](https://github.com/ozcanlale-prog)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### About Me
+
+Second-year Software Engineering student at Kahramanmaraş İstiklal Üniversitesi with a strong focus on mobile architecture, artificial intelligence integrations, 3D modeling pipelines, and embedded hardware systems. Passionate about building high-performance, functional applications and bridging software engineering with visual computing.
+
+### Technical Stack
+
+* **Mobile Development:** Flutter, Dart, React Native, Expo, Swift, Kotlin, Android Studio (Java/XML)
+* **AI & Computer Vision:** Gemini API, OpenCV, YOLOv8, Core ML, Qwen models
+* **Programming Languages:** C, C++, Java, Dart, JavaScript/TypeScript
+* **3D & Game Development:** Blender 4.x, RealityScan, R3DS Wrap, Unreal Engine, Unity
+* **Embedded Systems:** Arduino Uno, C++ Microcontroller Programming
+
+### Featured Projects
+
+* **Şipşak Şef:** Android food recommendation application utilizing the Gemini Flash Vision API for real-time image recognition and recipe generation.
+* **Autonomous 3D Radar Simulation:** Object-tracking simulation system powered by YOLOv8, OpenCV ORB feature matching, Ursina 3D engine, and Arduino hardware.
+* **Kampüsüm & Günün Notu:** Native Android utility and campus issue-reporting applications developed with Java and XML.
+* **CopKutusuBlender:** Open-source repository featuring game-ready, low-poly PBR-textured 3D assets created in Blender 4.x.
+
+### Connect With Me
+
+* Feel free to explore my repositories, check out my ongoing builds, or reach out via LinkedIn for professional collaborations.
