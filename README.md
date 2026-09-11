@@ -10,16 +10,6 @@
 
 ---
 
-<audio controls>
-  <source src="https://github.com/user-attachments/files/32090145/leberch-space-440026.mp3" type="audio/mpeg">
-  Tarayıcınız ses öğesini desteklemiyor.
-</audio>
-
-
-### 🎵 Müzik / Ses Dosyam
-
-[![Oynat / Dinle](https://img.shields.io/badge/Ses_Dosyasını_Dinle-Play-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/user-attachments/files/32090145/leberch-space-440026.mp3)
-
 ### About Me
 
 Second-year Software Engineering student at Kahramanmaraş İstiklal Üniversitesi with a strong focus on mobile architecture, artificial intelligence integrations, 3D modeling pipelines, and embedded hardware systems. Passionate about building high-performance, functional applications and bridging software engineering with visual computing.
@@ -42,6 +32,11 @@ Second-year Software Engineering student at Kahramanmaraş İstiklal Üniversite
 ### Connect With Me
 
 * Feel free to explore my repositories, check out my ongoing builds, or reach out via LinkedIn for professional collaborations.
+
+### 🎵 Müzik Dinle...
+
+[![Oynat / Dinle](https://img.shields.io/badge/Ses_Dosyasını_Dinle-Play-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/user-attachments/files/32090145/leberch-space-440026.mp3)
+
 
 <img width="736" height="414" alt="indir (30)" src="https://github.com/user-attachments/assets/669a1bfe-c974-4891-ac25-984609bcfa34" />
 
