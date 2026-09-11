@@ -16,6 +16,10 @@
 </audio>
 
 
+### 🎵 Müzik / Ses Dosyam
+
+[![Oynat / Dinle](https://img.shields.io/badge/Ses_Dosyasını_Dinle-Play-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/user-attachments/files/32090145/leberch-space-440026.mp3)
+
 ### About Me
 
 Second-year Software Engineering student at Kahramanmaraş İstiklal Üniversitesi with a strong focus on mobile architecture, artificial intelligence integrations, 3D modeling pipelines, and embedded hardware systems. Passionate about building high-performance, functional applications and bridging software engineering with visual computing.
